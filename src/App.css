@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+#cuadro {
+  background-color:#CFE2F3;
+  border: 1px solid black;
+  margin: 20px auto;
+  height: 400px;
+  width: 400px;
+}
